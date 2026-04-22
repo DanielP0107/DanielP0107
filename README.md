@@ -31,16 +31,6 @@ Soy un desarrollador apasionado por construir soluciones escalables y de alta ca
 
 ---
 
-## 🚀 Proyectos Destacados
-
-> [!TIP]
-> Aquí puedes enlazar tus mejores repositorios para que los reclutadores los vean rápido.
-
-1. **[Nombre del Proyecto 1]** - Descripción breve: "Plataforma de... usando [Tech Stack]".
-2. **[Nombre del Proyecto 2]** - "Sistema de IA para... construido con Python y FastAPI".
-
----
-
 ## 📫 Conectemos
 - 💼 **LinkedIn:** [linkedin.com/in/danielperalta](https://linkedin.com/in/danielperalta)
 - 📧 **Email:** [Djp.informatico@gmail.com](mailto:Djp.informatico@gmail.com)
