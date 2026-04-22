@@ -1,16 +1,53 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel Peralta 🚀
+### Desarrollador Full Stack | Especialista en Soluciones Web & Mobile
 
-<!--
-**DanielP0107/DanielP0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por construir soluciones escalables y de alta calidad. Cuento con experiencia sólida creando aplicaciones modernas desde el frontend hasta el backend, integrando Inteligencia Artificial para búsqueda inteligente y desarrollando apps móviles multiplataforma.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend** | Angular, React.js, Ionic, HTML5, CSS3, TypeScript |
+| **Backend** | Node.js (Express), Flask, FastAPI, ASP.NET Core, GraphQL |
+| **Bases de Datos** | Firebase (Realtime DB), PostgreSQL, MySQL |
+| **IA & NLP** | spaCy, Sentence Transformers, FAISS, Whoosh |
+| **Herramientas** | Git, GitHub, Metodologías Ágiles (Scrum) |
+
+---
+
+## 💼 Experiencia Destacada
+
+### ⚡ Analista Programador Full Stack en NETDATABIO (2024 - 2025)
+* **Búsqueda Inteligente:** Implementé un sistema de búsqueda sobre PDFs usando **Python, NLP (spaCy)** y **FAISS** para recuperación eficiente de información.
+* **Web & Mobile:** Desarrollé interfaces responsivas en **Angular/React** y apps híbridas en **Ionic** integradas con Firebase.
+* **APIs Robustas:** Construcción de microservicios seguros y escalables.
+
+### 📱 Desarrollador Mobile en Softcode SPA (2024)
+* Desarrollo de App Multiplataforma con **Ionic Angular** (100% compatibilidad iOS/Android).
+* Optimización de UI/UX mejorando la experiencia de usuario en un **30%**.
+* Integración de servicios de geolocalización y bases de datos en tiempo real.
+
+---
+
+## 🚀 Proyectos Destacados
+
+> [!TIP]
+> Aquí puedes enlazar tus mejores repositorios para que los reclutadores los vean rápido.
+
+1. **[Nombre del Proyecto 1]** - Descripción breve: "Plataforma de... usando [Tech Stack]".
+2. **[Nombre del Proyecto 2]** - "Sistema de IA para... construido con Python y FastAPI".
+
+---
+
+## 📫 Conectemos
+- 💼 **LinkedIn:** [linkedin.com/in/danielperalta](https://linkedin.com/in/danielperalta)
+- 📧 **Email:** [Djp.informatico@gmail.com](mailto:Djp.informatico@gmail.com)
+- 📍 **Ubicación:** Viña del Mar, Chile
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielperalta&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</div>
